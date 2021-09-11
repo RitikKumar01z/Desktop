@@ -1,0 +1,3 @@
+12	Ritik          a	00	00	Tiwari
+12	Sendy          a	00	00	13
+11	Ritik          a	00	00	12
